@@ -1,0 +1,5 @@
+(version 1)
+(rule net_J2_clearance
+  (condition "A.NetName == 'Net-(J2-In)' && B.NetName == 'Net-(J10-In)'")
+  (constraint clearance (min 13.75mil))
+)

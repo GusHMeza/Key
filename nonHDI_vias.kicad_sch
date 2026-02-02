@@ -6,11 +6,11 @@
 	(paper "A4")
 	(title_block
 		(title "\"Key\" - TL Characterization Test Board")
-		(date "2026-01-27")
-		(rev "A")
+		(date "2026-02-01")
+		(rev "B")
 		(company "GHM")
-		(comment 1 "Vendor: JLC PCB, $7")
-		(comment 2 "Standard PCB process. No impedance control.")
+		(comment 1 "Vendor: JLC PCB, Stackup JLC04161H-7628, $7")
+		(comment 2 "Standard PCB process. 50R impedance control.")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_Coaxial"
