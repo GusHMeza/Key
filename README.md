@@ -21,6 +21,10 @@ Methodology:
 
 main: First approach to creating a test vehicle that included calibration and a few high-speed tests based on signal integrity problems seen -in scientific papers- in >30 GHz designs.
 
+<img width="961" height="959" alt="image" src="https://github.com/user-attachments/assets/8f397f4a-97e8-4742-8fb5-d7da98981afa" />
 
 
-RevB branch: Major redesign to better reflect the intention of validation low-speed structures. Improves on the calibration section as it now inlcudes a correct SOLT calibration coupon.
+RevB branch: Major redesign to better reflect the intention of validating low-speed structures. Improves on the calibration section as it now inlcudes a correct SOLT calibration coupon.
+
+<img width="955" height="953" alt="image" src="https://github.com/user-attachments/assets/3d5c4ab5-7339-48db-8d3c-3392d39d7b48" />
+
